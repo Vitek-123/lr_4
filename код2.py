@@ -1102,4 +1102,4 @@ registration_button.place(anchor="center", relx=0.57, rely=0.75)
 
 
 window.mainloop()
-#это для лабораторной работы 4пше 
+#это для лабораторной работы 4
